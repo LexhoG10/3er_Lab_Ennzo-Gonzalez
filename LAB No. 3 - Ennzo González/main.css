@@ -1,0 +1,311 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #FFFFFF;
+}
+
+.header {
+  width: 100%;
+  height: 150px;
+  background-color: #00205b;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_Logo {
+    display: flex;
+    
+}
+
+.header_menu {
+    list-style: none;
+    display: flex;
+    margin-left: 20px;
+    justify-content: flex-end;
+    align-items: center;
+    height: 80px;
+}
+
+.header_menu li {
+  margin: 15px;
+}
+
+.header_menu a {
+  display: flex;
+  justify-content: flex-end;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 30px;
+  font-family: fantasy;
+}
+
+.header_menu a:hover {
+  color: #005670;
+  transition: 250ms;
+}
+
+.caja {
+  width: 450px;
+  height: 250px;
+  background-color: #FFFFFF;
+}
+
+.main {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-family: fantasy;
+  font-size: 25px;
+  color: #00205b ;
+}
+
+
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #FFFFFF;
+}
+
+.header {
+width: 100%;
+height: 150px;
+background-color: #00205b;
+display: flex;
+justify-content: space-between;
+}
+
+.header_Logo {
+  display: flex;
+  
+}
+
+.header_menu {
+  list-style: none;
+  display: flex;
+  margin-left: 20px;
+  justify-content: flex-end;
+  align-items: center;
+  height: 80px;
+}
+
+.header_menu li {
+margin: 15px;
+}
+
+.header_menu a {
+display: flex;
+justify-content: flex-end;
+color: rgb(255, 255, 255);
+text-decoration: none;
+font-size: 30px;
+font-family: fantasy;
+}
+
+.header_menu a:hover {
+color: #005670;
+transition: 250ms;
+}
+
+.Primaria1 {
+  width: 100%;
+  height: 800px;
+  font-family: fantasy;
+  font-size: 25px;
+  color: #00205b ;
+}
+
+.Secundaria {
+  width: 100%;
+  height: 700px;
+  font-family: fantasy;
+  font-size: 25px;
+  color: #00205b ;
+}
+
+.main {
+  width: 100%;
+  height: 800px;
+  font-family: fantasy;
+  font-size: 25px;
+  color: #0085ad ;
+}
+
+.habilidades {
+  width: 100%;
+  height: 800px;
+  font-family: fantasy;
+  font-size: 25px;
+  color: #00205b ;
+}
+
+.habilidades2 {
+  width: 100%;
+  height: 800px;
+  font-family: fantasy;
+  font-size: 30px;
+  color: #00205b ;
+}
+
+
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #FFFFFF;
+}
+
+.header {
+width: 100%;
+height: 150px;
+background-color: #00205b;
+display: flex;
+justify-content: space-between;
+}
+
+.header_Logo {
+  display: flex;
+  
+}
+
+.header_menu {
+  list-style: none;
+  display: flex;
+  margin-left: 20px;
+  justify-content: flex-end;
+  align-items: center;
+  height: 80px;
+}
+
+.header_menu li {
+margin: 15px;
+}
+
+.header_menu a {
+display: flex;
+justify-content: flex-end;
+color: rgb(255, 255, 255);
+text-decoration: none;
+font-size: 30px;
+font-family: fantasy;
+}
+
+.header_menu a:hover {
+color: #005670;
+transition: 250ms;
+}
+
+.Proyectos {
+  width: 100%;
+  height: 800px;
+  font-family: fantasy;
+  font-size: 25px;
+  color: #00205b ;
+}
+
+.caja2 {
+  width: 100%;
+  height: 350px;
+  background-color: #FFFFFF;
+}
+
+.main2 {
+  width: 100%;
+  height: 650px;
+  display: flex;
+  justify-content: left;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #FFFFFF;
+}
+
+.header {
+width: 100%;
+height: 150px;
+background-color: #00205b;
+display: flex;
+justify-content: space-between;
+}
+
+.header_Logo {
+  display: flex;
+  
+}
+
+.header_menu {
+  list-style: none;
+  display: flex;
+  margin-left: 20px;
+  justify-content: flex-end;
+  align-items: center;
+  height: 80px;
+}
+
+.header_menu li {
+margin: 15px;
+}
+
+.header_menu a {
+display: flex;
+justify-content: flex-end;
+color: rgb(255, 255, 255);
+text-decoration: none;
+font-size: 30px;
+font-family: fantasy;
+}
+
+.header_menu a:hover {
+color: #005670;
+transition: 250ms;
+}
+
+.Contacto {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  font-family: fantasy;
+  font-size: 20px;
+  color: #00205b ;
+}
+
+.boton {
+  background-color: #00205b;
+  width: 300px;
+  margin-left: 770px;
+  margin-top: 400px;
+  border: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  height: 55px;
+  cursor: pointer;
+  outline: none;
+}
+
+.boton a {
+  text-decoration: none;
+  color: black;
+  font-size: 30 px;
+  font-family: fantasy;
+}
+
+.boton:hover{
+  background-color: #005670;
+  width: 300px;
+  margin-left: 770px;
+  transition: 510ms;
+}
+.boton a:hover{
+  color: #00205b;
+}
